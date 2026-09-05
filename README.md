@@ -112,9 +112,3 @@ CLI option classes are defined in `WifiCliOptions.cs`, `UrlCliOptions.cs`, and `
 ## Contributing
 
 See `CONTRIBUTING.md` for project standards and style rules.
-
-## License
-
-Specified by project (add license file if needed).
-
-This version maintains the original structure while enhancing clarity and coherence. It also ensures that all relevant information is presented in a logical flow, making it easier for users to understand and utilize the QRCodeGenerator tool.
